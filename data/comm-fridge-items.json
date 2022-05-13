@@ -1,0 +1,67 @@
+[{
+	"id": "1",
+	"name": "Almond milk",
+	"type": "1",
+	"img": "images/1/almond_milk.jpeg"
+},
+{
+	"id": "2",
+	"name": "Salted butter",
+	"type": "1",
+	"img": "images/1/salted_butter.jpeg"
+	},
+{
+		"id": "3",
+		"name": "Grapes",
+	  "type": "2",
+	  "img": "images/3/grapes.jpeg"
+	  },
+{
+		"id": "4",
+		"name": "Apples",
+	  "type": "2",
+	  "img": "images/3/apples.jpeg"
+	},
+{
+		"id": "5",
+		"name": "Bananas",
+	  "type": "2",
+	  "img": "images/3/bananas.jpeg"
+	  },
+{
+		"id": "6",
+		"name": "Spinach",
+	  "type": "2",
+	  "img": "images/3/spinach.jpeg"
+	  },
+		{
+		"id": "7",
+	  "name": "Lettuce",
+	  "type": "2",
+	  "img": "images/3/lettuce.jpeg"
+	  },
+		{
+		"id": "8",
+		"name": "Cauliflower",
+	  "type": "2",
+	  "img": "images/3/cauliflower.jpeg"
+	  },
+		{
+		"id": "9",
+	  "name": "Cheerios",
+	  "type": "3",
+	  "img": "images/pantry/cheerios.jpeg"
+	  },
+		{
+		"id": "10",
+	  "name": "Crackers",
+	  "type": "3",
+	  "img": "images/pantry/crackers.jpeg"
+	  },
+		{
+		"id": "11",
+	  "name": "Whole milk",
+	  "type": "1",
+	  "img": "images/1/whole_milk.jpeg"
+	  }
+	]

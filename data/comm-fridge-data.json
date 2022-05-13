@@ -1,0 +1,154 @@
+[
+    {
+        "id": "fg-1",
+        "name": "Parkdale fridge",
+        "numItemsAccepted": 100,
+        "canAcceptItems": 18,
+        "acceptedTypes": [
+            "1",
+            "2"
+        ],
+        "contactInfo": {
+          "contactPerson": "Jane Doe",
+          "contactPhone": "(613) 722-8019"
+        },
+        "address": {
+            "street": "30 Rosemount Ave #2",
+            "postalCode": "K1Y 1P4",
+            "city": "Ottawa",
+            "province": "Ontario",
+            "country": "Canada"
+        },
+        "items": [
+          {
+              "id": "2",
+              "quantity": 1
+          },
+          {
+              "id": "3",
+              "quantity": 2
+          },
+          {
+              "id": "4",
+              "quantity": 6
+          }]
+    },
+    {
+        "id": "fg-2",
+        "name": "Morrison fridge",
+        "numItemsAccepted": 50,
+        "canAcceptItems": 20,
+        "acceptedTypes": [
+            "1",
+            "2"
+        ],
+        "contactInfo": {
+          "contactPerson": "John Doe",
+          "contactPhone": "(613) 596-6229"
+        },
+        "address": {
+            "street": "3985-A Morrison Drive",
+            "postalCode": "K2H 7L1",
+            "city": "Ottawa",
+            "province": "Ontario",
+            "country": "Canada"
+        },
+        "items": [
+            {
+                "id": "1",
+                "quantity": 1
+            },
+            {
+                "id": "10",
+                "quantity": 2
+            },
+            {
+                "id": "2",
+                "quantity": 1
+            },
+            {
+                "id": "3",
+                "quantity": 2
+            },
+            {
+                "id": "5",
+                "quantity": 2
+            },
+            {
+                "id": "6",
+                "quantity": 1
+            },
+            {
+                "id": "7",
+                "quantity": 1
+            },
+            {
+                "id": "8",
+                "quantity": 1
+            },
+            {
+                "id": "9",
+                "quantity": 4
+            }
+        ]
+    },
+    {
+        "id": "fg-3",
+        "name": "Somerset fridge",
+        "numItemsAccepted": 40,
+        "canAcceptItems": 20,
+        "acceptedTypes": [
+            "1",
+            "3"
+        ],
+        "contactInfo": {
+          "contactPerson": "Mary Doe",
+          "contactPhone": "(613) 238-8210"
+        },
+        "address": {
+            "street": "55 Eccles street",
+            "postalCode": "K1R 6S3",
+            "city": "Ottawa",
+            "province": "Ontario",
+            "country": "Canada"
+        },
+        "items": [
+            {
+                "id": "1",
+                "quantity": 1
+            },
+            {
+                "id": "10",
+                "quantity": 2
+            },
+            {
+                "id": "2",
+                "quantity": 1
+            },
+            {
+                "id": "3",
+                "quantity": 2
+            },
+            {
+                "id": "5",
+                "quantity": 2
+            },
+            {
+                "id": "6",
+                "quantity": 1
+            },
+            {
+                "id": "7",
+                "quantity": 1
+            },
+            {
+                "id": "8",
+                "quantity": 1
+            },
+            {
+                "id": "9",
+                "quantity": 4
+            }
+        ]
+    }
+]

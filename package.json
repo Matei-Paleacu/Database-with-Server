@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.2.10"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "a4",
+  "version": "1.0.0",
+  "main": "config.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
